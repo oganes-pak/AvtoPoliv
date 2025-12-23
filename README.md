@@ -241,6 +241,8 @@ const unsigned long PUMP_DEBOUNCE_TIME = 5000; // 5 секунд для насо
 
 <hr>
 
+![photo_2025-12-23_14-35-43](https://github.com/user-attachments/assets/dc8bade4-e487-47a4-ba0c-bcd5005f9298)
+
 
 ---
 
