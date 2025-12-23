@@ -113,13 +113,13 @@
 
 
 Ссылки
-https://www.ozon.ru/product/adapter-pitaniya-blok-pitaniya-palmexx-5v-4a-hch005-5v-4a-5-5h2-5-1-5-metra-1630652912/
-https://www.ozon.ru/product/oled-displey-0-96-128x64-i2c-belyy-945285571/
-https://www.ozon.ru/product/rezistivnyy-datchik-vlazhnosti-pochvy-yl-69-fc-28-933032880/?at=gpt4Z8MNPCzxEyVQsv3qq2KI0ZEV9LhAgMm2BhjMXQ98
-https://www.ozon.ru/product/datchik-urovnya-nalichiya-vody-466547777/?at=QktJj709Bc99K6jFPy2qQrsN5QA9XtDDBgyxs8Ljm96
-https://www.ozon.ru/product/fotorezistor-ldr-gl5528-datchik-sveta-10sht-911619604/?at=J8tgExNyphmLE0P5uzj4J6Ju0R1g46t3BwwzYILBqM1z
-https://www.ozon.ru/product/modul-povorotnogo-enkodera-bez-rezby-hw-040-ky-040-5v-30-shagov-na-oborot-dlya-arduino-2147108762/?at=jYtZQgWAlU9KK35lu4vLOy5C4APw0kf4mAllgfYPvgRv
-https://www.ozon.ru/product/releynyy-modul-2-kanala-s-opticheskoy-razvyazkoy-220v-10a-dlya-arduino-modul-rele-s-optorazvyazkoy-1046491403/
+1. https://www.ozon.ru/product/adapter-pitaniya-blok-pitaniya-palmexx-5v-4a-hch005-5v-4a-5-5h2-5-1-5-metra-1630652912/
+2. https://www.ozon.ru/product/oled-displey-0-96-128x64-i2c-belyy-945285571/
+3. https://www.ozon.ru/product/rezistivnyy-datchik-vlazhnosti-pochvy-yl-69-fc-28-933032880/?at=gpt4Z8MNPCzxEyVQsv3qq2KI0ZEV9LhAgMm2BhjMXQ98
+4. https://www.ozon.ru/product/datchik-urovnya-nalichiya-vody-466547777/?at=QktJj709Bc99K6jFPy2qQrsN5QA9XtDDBgyxs8Ljm96
+5. https://www.ozon.ru/product/fotorezistor-ldr-gl5528-datchik-sveta-10sht-911619604/?at=J8tgExNyphmLE0P5uzj4J6Ju0R1g46t3BwwzYILBqM1z
+6. https://www.ozon.ru/product/modul-povorotnogo-enkodera-bez-rezby-hw-040-ky-040-5v-30-shagov-na-oborot-dlya-arduino-2147108762/?at=jYtZQgWAlU9KK35lu4vLOy5C4APw0kf4mAllgfYPvgRv
+7. https://www.ozon.ru/product/releynyy-modul-2-kanala-s-opticheskoy-razvyazkoy-220v-10a-dlya-arduino-modul-rele-s-optorazvyazkoy-1046491403/
 
 
 
