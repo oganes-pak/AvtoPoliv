@@ -6,8 +6,6 @@ _Написано для Arduino IDE._
 
 [![GitHub release](https://img.shields.io/github/v/release/oganes-pak/AvtoPoliv.svg)](https://github.com/oganes-pak/AvtoPoliv/releases)
 [![GitHub downloads](https://img.shields.io/github/downloads/oganes-pak/AvtoPoliv/total.svg)](https://github.com/oganes-pak/AvtoPoliv/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Arduino](https://img.shields.io/badge/platform-Arduino%20Nano-teal.svg)](https://www.arduino.cc/)
 <div class="markdown-table-of-contents">
 
 ## 📑 Содержание
@@ -197,7 +195,7 @@ const int LIGHT_AUTO_THRESHOLD = 700; // Включить свет при зна
 const unsigned long LIGHT_DEBOUNCE_TIME = 10000; // 10 секунд для света
 const unsigned long PUMP_DEBOUNCE_TIME = 5000; // 5 секунд для насоса
 
-text
+
 
 <hr>
 
